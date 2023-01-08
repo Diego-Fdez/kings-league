@@ -1,0 +1,485 @@
+[
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 5,
+    "concededGoals": 0,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "color": "#49b2ad",
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "https://api.kingsleague.dev/static/logos/el-barrio.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/el-barrio-inverse.svg",
+      "url": "https://kingsleague.pro/team/el-barrio/",
+      "presidentId": "adri-contreras",
+      "channel": "https://twitch.tv/1k",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ],
+      "players": [
+        {
+          "name": "José Juan",
+          "role": "jugador 11",
+          "image": "el-barrio-jos-juan.png"
+        },
+        {
+          "name": "Jacobo",
+          "role": "Delantero",
+          "image": "el-barrio-jacobo.png"
+        },
+        {
+          "name": "Mase",
+          "role": "Defensa",
+          "image": "el-barrio-mase.png"
+        },
+        {
+          "name": "Beguer",
+          "role": "Delantero",
+          "image": "el-barrio-beguer.png"
+        },
+        {
+          "name": "Ros",
+          "role": "Medio",
+          "image": "el-barrio-ros.png"
+        },
+        {
+          "name": "Ubón",
+          "role": "Medio",
+          "image": "el-barrio-ubn.png"
+        },
+        {
+          "name": "Pau ZZ",
+          "role": "Defensa",
+          "image": "el-barrio-pau-zz.png"
+        },
+        {
+          "name": "Olae",
+          "role": "Delantero",
+          "image": "el-barrio-olae.png"
+        },
+        {
+          "name": "O. Boada",
+          "role": "Delantero",
+          "image": "el-barrio-o-boada.png"
+        },
+        {
+          "name": "Baranera",
+          "role": "Medio",
+          "image": "el-barrio-baranera.png"
+        },
+        {
+          "name": "Capilla",
+          "role": "Medio",
+          "image": "el-barrio-capilla.png"
+        }
+      ],
+      "coach": "Juan Arroita",
+      "shortName": "RDB",
+      "coachInfo": {
+        "name": "Juan Arroita",
+        "image": "juan-arroita.png"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 5,
+    "concededGoals": 1,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "color": "#7b7b7b",
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "https://api.kingsleague.dev/static/logos/ultimate-mostoles.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/ultimate-mostoles-inverse.svg",
+      "url": "https://kingsleague.pro/team/ultimate-mostoles/",
+      "presidentId": "djmariio",
+      "channel": "https://youtube.com/DjMaRiiO",
+      "socialNetworks": [
+        "https://m.youtube.com/user/DjMaRiiO/videos"
+      ],
+      "players": [
+        {
+          "name": "Juanma Glez",
+          "role": "jugador 11",
+          "image": "ultimate-mostoles-juanma-glez.png"
+        },
+        {
+          "name": "Arché",
+          "role": "Medio",
+          "image": "ultimate-mostoles-arch.png"
+        },
+        {
+          "name": "Iu",
+          "role": "Portero",
+          "image": "ultimate-mostoles-iu.png"
+        },
+        {
+          "name": "Guti",
+          "role": "Defensa",
+          "image": "ultimate-mostoles-guti.png"
+        },
+        {
+          "name": "Aleix",
+          "role": "Medio",
+          "image": "ultimate-mostoles-aleix.png"
+        },
+        {
+          "name": "Llur",
+          "role": "Delantero",
+          "image": "ultimate-mostoles-llur.png"
+        },
+        {
+          "name": "Iker",
+          "role": "Defensa",
+          "image": "ultimate-mostoles-iker.png"
+        },
+        {
+          "name": "Ian",
+          "role": "Defensa",
+          "image": "ultimate-mostoles-ian.png"
+        },
+        {
+          "name": "Zea",
+          "role": "Delantero",
+          "image": "ultimate-mostoles-zea.png"
+        },
+        {
+          "name": "Nacho",
+          "role": "Portero",
+          "image": "ultimate-mostoles-nacho.png"
+        },
+        {
+          "name": "Lucca",
+          "role": "Medio",
+          "image": "ultimate-mostoles-lucca.png"
+        }
+      ],
+      "coach": "Nacho Castro",
+      "shortName": "ULT",
+      "coachInfo": {
+        "name": "Nacho Castro",
+        "image": "nacho-castro.png"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 5,
+    "concededGoals": 3,
+    "yellowCards": 1,
+    "redCards": 0
+  },
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 4,
+    "concededGoals": 2,
+    "yellowCards": 0,
+    "redCards": 0,
+    "team": {
+      "id": "1k",
+      "color": "#6f68f4",
+      "name": "1K FC",
+      "image": "https://api.kingsleague.dev/static/logos/1k.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/1k-inverse.svg",
+      "url": "https://kingsleague.pro/team/1k/",
+      "presidentId": "iker-casillas",
+      "channel": "https://www.youtube.com/@IkerCasillas",
+      "socialNetworks": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "players": [
+        {
+          "name": "Ricardo",
+          "role": "jugador 11",
+          "image": "1k-ricardo.png"
+        },
+        {
+          "name": "Román",
+          "role": "Defensa",
+          "image": "1k-romn.png"
+        },
+        {
+          "name": "Sorroche",
+          "role": "Delantero",
+          "image": "1k-sorroche.png"
+        },
+        {
+          "name": "Marino",
+          "role": "Delantero",
+          "image": "1k-marino.png"
+        },
+        {
+          "name": "Ledo",
+          "role": "Defensa",
+          "image": "1k-ledo.png"
+        },
+        {
+          "name": "Sauras",
+          "role": "Defensa",
+          "image": "1k-sauras.png"
+        },
+        {
+          "name": "Bruno",
+          "role": "Defensa",
+          "image": "1k-bruno.png"
+        },
+        {
+          "name": "Pluvins",
+          "role": "Medio",
+          "image": "1k-pluvins.png"
+        },
+        {
+          "name": "Rivero",
+          "role": "Medio",
+          "image": "1k-rivero.png"
+        },
+        {
+          "name": "Lautaro",
+          "role": "Delantero",
+          "image": "1k-lautaro.png"
+        },
+        {
+          "name": "Günter",
+          "role": "Delantero",
+          "image": "1k-gnter.png"
+        }
+      ],
+      "coach": "Julio García Mera",
+      "shortName": "1K",
+      "coachInfo": {
+        "name": "Julio García Mera",
+        "image": "julio-garca-mera.png"
+      }
+    }
+  },
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 4,
+    "concededGoals": 2,
+    "yellowCards": 1,
+    "redCards": 0
+  },
+  {
+    "wins": 1,
+    "loses": 0,
+    "scoredGoals": 2,
+    "concededGoals": 1,
+    "yellowCards": 1,
+    "redCards": 0
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 1,
+    "concededGoals": 2,
+    "yellowCards": 0,
+    "redCards": 0
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 2,
+    "concededGoals": 4,
+    "yellowCards": 1,
+    "redCards": 0
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 2,
+    "concededGoals": 4,
+    "yellowCards": 0,
+    "redCards": 0
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 2,
+    "concededGoals": 5,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "color": "#979797",
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://api.kingsleague.dev/static/logos/xbuyer.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/xbuyer-inverse.svg",
+      "url": "https://kingsleague.pro/team/xbuyer-team/",
+      "presidentId": "hnos-buyer",
+      "channel": "https://www.youtube.com/xbuyer",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ],
+      "players": [
+        {
+          "name": "C. Castro",
+          "role": "jugador 11",
+          "image": "xbuyer-team-c-castro.png"
+        },
+        {
+          "name": "Capi",
+          "role": "Portero",
+          "image": "xbuyer-team-capi.png"
+        },
+        {
+          "name": "Poch",
+          "role": "Delantero",
+          "image": "xbuyer-team-poch.png"
+        },
+        {
+          "name": "Iñaki",
+          "role": "Medio",
+          "image": "xbuyer-team-iaki.png"
+        },
+        {
+          "name": "Dani",
+          "role": "Defensa",
+          "image": "xbuyer-team-dani.png"
+        },
+        {
+          "name": "Granero",
+          "role": "Delantero",
+          "image": "xbuyer-team-granero.png"
+        },
+        {
+          "name": "Goran",
+          "role": "Medio",
+          "image": "xbuyer-team-goran.png"
+        },
+        {
+          "name": "Bañuls",
+          "role": "Defensa",
+          "image": "xbuyer-team-bauls.png"
+        },
+        {
+          "name": "Franc",
+          "role": "Medio",
+          "image": "xbuyer-team-franc.png"
+        },
+        {
+          "name": "B. Sierra",
+          "role": "Delantero",
+          "image": "xbuyer-team-b-sierra.png"
+        },
+        {
+          "name": "Sep",
+          "role": "Portero",
+          "image": "xbuyer-team-sep.png"
+        }
+      ],
+      "coach": "Víctor González",
+      "shortName": "XBU",
+      "coachInfo": {
+        "name": "Victor González",
+        "image": "victor-gonzlez.png"
+      }
+    }
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 1,
+    "concededGoals": 5,
+    "yellowCards": 0,
+    "redCards": 0
+  },
+  {
+    "wins": 0,
+    "loses": 1,
+    "scoredGoals": 0,
+    "concededGoals": 5,
+    "yellowCards": 1,
+    "redCards": 0,
+    "team": {
+      "color": "#fff68d",
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "https://api.kingsleague.dev/static/logos/pio.svg",
+      "imageWhite": "https://api.kingsleague.dev/static/logos/pio-inverse.svg",
+      "url": "https://kingsleague.pro/team/pio-fc/",
+      "presidentId": "rivers",
+      "channel": "https://twitch.tv/rivers_gg",
+      "socialNetworks": [
+        "https://www.twitch.tv/rivers_gg",
+        "https://twitter.com/PIO_FC"
+      ],
+      "players": [
+        {
+          "name": "Lopo",
+          "role": "jugador 11",
+          "image": "pio-fc-lopo.png"
+        },
+        {
+          "name": "Jorge",
+          "role": "Portero",
+          "image": "pio-fc-jorge.png"
+        },
+        {
+          "name": "Carlitos",
+          "role": "Defensa",
+          "image": "pio-fc-carlitos.png"
+        },
+        {
+          "name": "Pau Fer",
+          "role": "Medio",
+          "image": "pio-fc-pau-fer.png"
+        },
+        {
+          "name": "Carlinhos",
+          "role": "Delantero",
+          "image": "pio-fc-carlinhos.png"
+        },
+        {
+          "name": "B. Juárez",
+          "role": "Medio",
+          "image": "pio-fc-b-juárez.png"
+        },
+        {
+          "name": "Turner",
+          "role": "Defensa",
+          "image": "pio-fc-turner.png"
+        },
+        {
+          "name": "Adri",
+          "role": "Delantero",
+          "image": "pio-fc-adri.png"
+        },
+        {
+          "name": "Cokita",
+          "role": "Medio",
+          "image": "pio-fc-cokita.png"
+        },
+        {
+          "name": "A. Ropero",
+          "role": "Medio",
+          "image": "pio-fc-a-ropero.png"
+        },
+        {
+          "name": "Santiago",
+          "role": "Defensa",
+          "image": "pio-fc-santiago.png"
+        }
+      ],
+      "coach": "Gerardo Torrado",
+      "shortName": "PIO",
+      "coachInfo": {
+        "name": "Gerardo Torrado",
+        "image": "gerardo-torrado.png"
+      }
+    }
+  }
+]
